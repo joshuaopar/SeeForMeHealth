@@ -18,11 +18,11 @@ confirm, or cancel patient appointments in real time via Firebase.
 ## Installation Guide For Third Party Installer
 
 ### Step 1 — Install the APK
-1. Download app-debug.apk from this repository
+1. Download SeeForMeHealth.apk from this repository
 2. On the patient phone go to Settings
 3. Go to Security or Privacy
 4. Enable Install from Unknown Sources
-5. Open the downloaded app-debug.apk file
+5. Open the downloaded SeeForMeHealth.apk file
 6. Tap Install and wait for it to finish
 
 ### Step 2 — First Launch Setup
@@ -60,12 +60,11 @@ Alternative method:
 3. Enter your Staff ID and password
 4. View and manage patient appointments
 
-## Staff Login
-| Hospital | Staff ID |
-|---|---|
-| Mulago National Referral | MULAGO001 |
-| Rubaga Hospital | RUBAGA001 |
-| Mengo Hospital | MENGO001 |
+## Staff Login Credentials
+| Hospital | Staff ID | Password |
+|---|---|---|
+| Mulago National Referral Hospital | MULAGO001 | @mulago123 |
+| Mengo Hospital | MENGO001 | @mengo123 |
 
 ## Requirements
 - Android 6.0 and above
